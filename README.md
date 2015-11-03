@@ -1,6 +1,6 @@
 # TCA Matrix
 
-TCA Matrix is a convinient mathematical framework that allows effcient modeling of hundreds of equations in TCA cycle and PPP pathway using a few compact matrix equations. This method can be used for matabolic flux analysis, dymanic tracer modeling.
+TCA Matrix is a convinient mathematical framework that allows effcient modeling of hundreds of equations in TCA cycle and PPP pathway using a few compact matrix equations. This method can be used for matabolic flux analysis and dymanic tracer modeling.
 
 Reference: 
 
